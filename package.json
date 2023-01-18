@@ -1,0 +1,39 @@
+{
+  "name": "shuvo-deb-color-theme-v-0-1",
+  "displayName": "Shuvo Deb Color Theme V-0.1",
+  "description": "Vs code theme for Developers",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "publisher": "ShuvoDebTheme",
+  "author": {
+    "name": "Shuvo Deb"
+  },
+  "license": "MIT",
+  "homepage": "",
+  "keywords": [
+    "Shuvo Deb",
+    "Shuvo Deb Color Theme V-0.1",
+    "shuvo-deb-color-theme-v-0.1",
+    "SDCTV0.1",
+    "sdctv0.1"
+  ],
+  "icon": "author-image.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevShuvo1/shuvo-deb-color-theme-v-0.1"
+},
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Shuvo Deb Color Theme V-0.1",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Shuvo Deb Color Theme V-0.1-color-theme.json"
+      }
+    ]
+  }
+}
